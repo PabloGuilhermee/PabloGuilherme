@@ -1,99 +1,104 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=🤓+Olá!+Me+chamo+Pablo+Guilherme!)
-
-**`Desenvolvedor Back-End`**
-
-Me chamo Pablo Guilherme, tenho 21 anos e sou natural de Sergipe. Concluí o ensino médio no Barão de Maua, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Nassau. Sou apaixonado por tecnologia e compartilho meu conhecimento atraves do meu Instagram"[Pablo Guilherme](https://www.instagram.com/pabloguilherme.dev)", onde ensino e tambem mostro toda a minha evolução como Programador.
+<div align="center">
+  <a href="https://github.com/SeuNovoUsuarioAqui">
+    <img src="https://readme-typing-svg.demolab.com/?lines=✨+Olá!+Eu+me+chamo+Pablo+Guilherme!+;🚀+Desenvolvedor+Full-Stack" alt="Typing SVG - Pablo Guilherme, Desenvolvedor Full-Stack"/>
+  </a>
+</div>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Sobre Mim
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
+Sou **Pablo Guilherme**, um **Desenvolvedor Full-Stack** de 21 anos, natural de Sergipe. Concluí o ensino médio no **Barão de Maua**, com o curso técnico em informática. Atualmente, estou cursando **Análise e Desenvolvimento de Sistemas na Nassau.** Sou apaixonado por tecnologia e **compartilho meu conhecimento atraves do meu Instagram"[Pablo Guilherme (https://www.instagram.com/pabloguilherme.dev)"**, onde ensino e tambem mostro toda a minha evolução como Programador.
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+---
 
-<img 
-    align="left" 
-    alt="Java" 
-    title="Java"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
+### 💻 Linguagens e Tecnologias
 
+Como desenvolvedor Full-Stack, meu foco principal está no ecossistema JavaScript e em Go, mas adoro explorar novas ferramentas!
 
-<br/>
-<br/>
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=PabloGuilherme&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=7&langs_order=html,css,javascript,react,typescript,python,java" 
-/>
-</p>
+| Categoria | Tecnologias |
+| :---: | :---: |
+| **Back-End** | Node.js, C#, Python (Flask/Django), SQL (MySQL) |
+| **Front-End** | React, HTML5, CSS3, JavaScript |
+| **DevOps & Cloud** | Git/GitHub |
 
 <div align="center">
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PabloGuilherme/PabloGuilherme/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Pablo.Guilherme/PabloGuilherme/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/PabloGuilherme/PabloGuilherme/output/github-contribution-grid-snake.svg">
-</picture>
+  <img 
+    alt="Node.js" 
+    title="Node.js" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+  />
+  <img 
+    alt="Go" 
+    title="Go" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
+  />
+  <img 
+    alt="Vue.js" 
+    title="Vue.js" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+  />
+  <img 
+    alt="TypeScript" 
+    title="TypeScript" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+  />
+  <img 
+    alt="Docker" 
+    title="Docker" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" 
+  />
+  <img 
+    alt="PostgreSQL" 
+    title="PostgreSQL" 
+    width="40px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+  />
 </div>
+
+<br/>
+
+---
+
+### 📈 Estatísticas e Contribuições
+
+Confira um resumo do meu desempenho e das tecnologias que mais utilizo no GitHub!
+
+<div align="left">
+  <img 
+    alt="GitHub Stats" 
+    height="180" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=PabloGuilherme&show_icons=true&theme=vue-dark&include_all_commits=true&locale=pt-br" 
+  />
+  
+  <img 
+    alt="Top Languages" 
+    height="180" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloGuilherme&theme=vue-dark&layout=compact&custom_title=Linguagens%20Mais%20Usadas&langs_count=6" 
+  />
+</div>
+
+<br/>
+<br/>
+
+---
+
+### 🤝 Conecte-se Comigo
+
+| Plataforma | Link |
+| :--- | :--- |
+| **LinkedIn** | [linkedin.com/in/seulinkedin-aqui](https://www.linkedin.com/in/seulinkedin-aqui) |
+| **E-mail** | lucas.rodrigues.dev@email.com |
+| **GitHub** | [github.com/SeuNovoUsuarioAqui](https://github.com/SeuNovoUsuarioAqui) |
