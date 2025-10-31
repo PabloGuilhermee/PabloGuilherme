@@ -11,4 +11,4 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
-<img align="right" alt="" height="190px" src="">
+<img align="right" alt="" height="190px" src="![Image](https://github.com/user-attachments/assets/7a4eaff1-cd32-4673-bd0f-bb7fb2db32ac)">
