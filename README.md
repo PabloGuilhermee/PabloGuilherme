@@ -8,3 +8,7 @@
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade de Engenharia de Sorocaba. Atualmente trabalho com JavaScript e estudo Java paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. Tenho paixão por aprender e aplicar esses conhecimentos para criar soluções inovadoras. </p>
+
+#
+
+<img align="right" alt="" height="190px" src="">
